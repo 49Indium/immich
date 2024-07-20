@@ -61,6 +61,8 @@ dependencies:
   octo_image: ^2.0.0
   thumbhash: 0.1.0+1
   async: ^2.11.0
+  home_widget: ^0.6.0
+  workmanager: ^0.5.2
 
   openapi:
     path: openapi
